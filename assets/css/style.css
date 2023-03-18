@@ -16,8 +16,16 @@ a {
 	text-decoration: none !important;
 }
 
-body .bg-success {
-    background-color: #26d4ce!important;
+body .bg-ready {
+    background-color: #09cc02!important;
+}
+
+body .bg-booked {
+    background-color: #c90404!important;
+}
+
+body .bg-klik {
+    background-color: #000000!important;
 }
 .profile img {
     width: 100px;
